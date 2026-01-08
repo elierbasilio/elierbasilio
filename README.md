@@ -1,8 +1,8 @@
 # Hola, soy Elier López Basilio
 <a href="https://www.linkedin.com/in/elier-emanuel-l%C3%B3pez-basilio-259216292/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-Tengo un profundo interés en la seguridad de la información y me considero un estudiante permanente en TICs.
+
+Tengo un profundo interés en la seguridad de la información y me considero un estudiante permanente.
 
 ## Objectivo
 
@@ -10,18 +10,17 @@ Mis estudios me han llevado a desarrollar una enorme pasión por la seguridad de
 
 
 ## Habilidades
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Implementación de SIEM y análisis de logs          | <a href="https://google.com">Detection Lab</a>|
 | Monitoreo de Tráfico de Red y Detección de Ataques | <a href="https://google.com">Detection Lab</a>|
-| Security Automation         | SOC Automation Lab|
+| Automatización de seguridad         | SOC Automation Lab|
 | Planeación y ejecución de Respuesta a Incidentes      | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Herramientas
 
 ### Network
 <div>
